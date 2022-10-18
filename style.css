@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+.background{
+background-image: url(images/A_black_image.jpg.webp);
+
+  
+}
+
+.text{
+font-family: monospace;
+color: purple;
+text-align: center;
+}
