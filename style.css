@@ -15,3 +15,21 @@ font-family: monospace;
 color: purple;
 text-align: center;
 }
+
+.textright{
+font-family: monospace;
+color: purple;
+}
+
+.img{
+text-align: center;
+border-radius: 8px;
+}
+
+.textbackground{
+font-family: monospace;
+color: black;
+  background-color: purple;
+  
+}
+
